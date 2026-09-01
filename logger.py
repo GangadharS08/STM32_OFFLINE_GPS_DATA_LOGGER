@@ -1,4 +1,4 @@
-To download logs 
+//To download logs 
 
 import serial
 import time
