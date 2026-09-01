@@ -1,4 +1,4 @@
-//To download logs 
+#python code to download logs 
 
 import serial
 import time
