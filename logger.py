@@ -1,3 +1,5 @@
+To download logs 
+
 import serial
 import time
 import os
